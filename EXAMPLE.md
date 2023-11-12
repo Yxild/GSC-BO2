@@ -7,8 +7,7 @@ Description: lorem ipsum
 
 <hr />
 
-Warnings types are:
-Unsafe/Bannable
-Possibly Unsafe
-
+Warnings types are:<br>
+Unsafe/Bannable<br>
+Possibly Unsafe<br><br>
 No risks means WARNING will not exist in that function.
